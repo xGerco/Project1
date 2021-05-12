@@ -1,0 +1,12 @@
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\bin\Debug\Proyecto escuela.exe.config
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\bin\Debug\Proyecto escuela.exe
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\bin\Debug\Proyecto escuela.pdb
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto escuela.csprojAssemblyReference.cache
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto_escuela.Form1.resources
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto_escuela.Properties.Resources.resources
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto escuela.csproj.GenerateResource.cache
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto escuela.csproj.CoreCompileInputs.cache
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto escuela.exe
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto escuela.pdb
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto_escuela.frmregistro.resources
+C:\Users\Gxrco\Documents\5to Bachillerato\Laboratory II\Class projects\M2\New folder\Proyecto escuela\Proyecto escuela\obj\Debug\Proyecto_escuela.Notas.resources
